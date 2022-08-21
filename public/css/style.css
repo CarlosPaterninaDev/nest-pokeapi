@@ -1,0 +1,16 @@
+html, body {
+  background: linear-gradient(#E4254B,#D31E5B);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+h1{
+  font-size: 80px;
+  color: #222;
+  text-transform: uppercase;
+}
